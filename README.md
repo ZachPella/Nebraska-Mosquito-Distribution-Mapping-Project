@@ -63,3 +63,11 @@ This project provides a detailed, visually compelling representation of mosquito
 
 ## Contact
 [Zach Pella/UNMC Data Scientist]
+
+![all_mosquitoes_map](https://github.com/user-attachments/assets/23512d46-822b-4131-ba49-003b2ac0eec3)
+
+
+![enhanced_pipiens_map](https://github.com/user-attachments/assets/e175d606-c7f8-4b0a-af4c-6cc4af185506)
+
+
+![enhanced_tarsalis_map](https://github.com/user-attachments/assets/0286ddb9-f067-41f2-b9fc-755bd5157f8d)
